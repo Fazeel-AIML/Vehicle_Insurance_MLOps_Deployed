@@ -1,0 +1,3 @@
+VKC3fvv5mX157AVp
+
+mongodb+srv://fasghar40:<db_password>@vehiclecluster.7bj7e.mongodb.net/?retryWrites=true&w=majority&appName=VehicleCluster
