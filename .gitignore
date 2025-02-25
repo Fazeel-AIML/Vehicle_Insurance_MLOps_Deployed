@@ -5,9 +5,7 @@ __pycache__/
 logs/
 artifact/
 artifact
-artifact/02_23_2025_21_23_08/data_ingestion
-aws_credentials.txt
-veh_cluster_cre.txt
+artifact/02_23_2025_21_23_08/data_ingestion/
 # C extensions
 *.so
 myenv/
