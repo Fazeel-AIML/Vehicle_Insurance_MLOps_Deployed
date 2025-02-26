@@ -6,6 +6,7 @@ from datetime import datetime
 
 LOG_DIR = "logs"
 LOG_FILE = f"{datetime.now().strftime('%m_%d_%Y_%H_%S')}.log"
+
 MAX_LOG_FILE = 5*1024*1024 #5MB
 BACKUP_LOGS = 3
 
