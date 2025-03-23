@@ -36,3 +36,16 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/Fazeel-AIML/Vehicle_Insurance_MLOps_Deployed
    cd Vehicle_Insurance_MLOps_Deployed
+2. Python dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Set up DVC
+   ```bash
+   dvc init
+   dvc pull
+To run:
+  ```bash
+  python main.py
+
+
+---
