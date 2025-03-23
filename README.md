@@ -6,12 +6,6 @@ This project implements a machine learning model to predict vehicle insurance cl
 - [Project Overview](#project-overview)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Training the Model](#training-the-model)
-- [CI/CD Pipeline](#cicd-pipeline)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
